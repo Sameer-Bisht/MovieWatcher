@@ -1,0 +1,16 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+  background-color: black;
+}
+.gradient{
+     background: linear-gradient(135deg, #EA173F, #A82158);
+    -webkit-background-clip: text;       /* Clip background to text (WebKit) */
+    -webkit-text-fill-color: transparent;/* Make the text itself transparent */
+    background-clip: text;               /* Standard property for other browsers */
+    color: transparent;       
+}

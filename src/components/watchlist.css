@@ -1,0 +1,6 @@
+.movie-card-container{
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

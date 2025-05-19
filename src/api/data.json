@@ -1,0 +1,736 @@
+{
+    
+"users":{
+
+                "sameer":[{
+      "name": "The Wild Robot",
+      "id": "the-wild-robot",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiNe6RMf9IjyZysISoqyWIScpM_OGFXgYNkw&s",
+      "rating": "9",
+      "description": "An intelligent robot finds herself alone on an island and must learn to survive in the wilderness.",
+      "cast": ["Lupita Nyong'o", "Pedro Pascal"],
+      "genre": ["Animation", "Adventure", "Family"],
+      "watch_url": "N/A"
+    },
+    {
+      "name": "Kabhi Khushi Kabhi Gham",
+      "id": "kabhi-khushi-kabhie-gham",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi7JDfewf86VmNLkBCKS_uaeziaAiRYkEKbQ&s",
+      "rating": "7.4",
+      "description": "A wealthy family faces turmoil when their adopted son marries against their wishes.",
+      "cast": ["Shah Rukh Khan", "Kajol", "Hrithik Roshan", "Amitabh Bachchan"],
+      "genre": ["Drama", "Romance"],
+      "watch_url": "https://www.netflix.com/in/title/60036728"
+    },
+    {
+      "name": "Swades",
+      "id": "swades",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWXsMWkP1li1NjysopcWv1aUZedb8hb2D-HA&s",
+      "rating": "8.2",
+      "description": "An NRI returns to India and reconnects with his roots while trying to improve rural life.",
+      "cast": ["Shah Rukh Khan", "Gayatri Joshi"],
+      "genre": ["Drama"],
+      "watch_url": "https://www.netflix.com/in/title/70022393"
+    },
+    {
+      "name": "Dil Se",
+      "id": "dil-se",
+      "img_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Dil_Se_poster.jpg",
+      "rating": "6",
+      "description": "A radio journalist falls for a mysterious woman with a secret past.",
+      "cast": ["Shah Rukh Khan", "Manisha Koirala"],
+      "genre": ["Romance", "Thriller"],
+      "watch_url": "https://www.netflix.com/in/title/60036752"
+    },
+    {
+      "name": "Kuch Kuch Hota Hai",
+      "id": "kuch-kuch-hota-hai",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMmQ0ZjliZTgtMjQ3NC00N2NiLTkxNjktY2VkOTQ2N2QyODNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "rating": "6",
+      "description": "Two college friends reunite years later, rekindling old feelings and memories.",
+      "cast": ["Shah Rukh Khan", "Kajol", "Rani Mukerji"],
+      "genre": ["Romance", "Drama"],
+      "watch_url": "https://www.netflix.com/in/title/60037055"
+    },
+    {
+      "name": "Sikandar",
+      "id": "sikandar",
+      "img_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2rSFAjw7bIuKeeroctFdpmFSJzjvC7uGxKHQHHsraGRcoY0wumBvOXnYCIMCSD4KpdlPNksViq4JFl_-fldGBxp8FDzz53h17X78E0Q",
+      "rating": "2",
+      "description": "An upcoming political action drama set in Punjab.",
+      "cast": ["Kartik Aaryan"],
+      "genre": ["Action", "Drama"],
+      "watch_url": "N/A"
+    },
+    {
+      "name": "Naadaniyaan",
+      "id": "naadaniyaan",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BNWZhOGU0MTktNWNkMS00MWNmLWFiYTktOWRkNTJhYzlkNzQyXkEyXkFqcGc@._V1_.jpg",
+      "rating": "3",
+      "description": "A light-hearted sitcom about a quirky family and their humorous misadventures.",
+      "cast": ["Fazal Hussain", "Nida Yasir"],
+      "genre": ["Comedy", "Family"],
+      "watch_url": "N/A"
+    },
+    {
+      "name": "Fateh",
+      "id": "fateh",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BOTFhNWZmZDEtZGU3Zi00Njc2LTgzOTMtZTU4NWQzYTNlOGNkXkEyXkFqcGc@._V1_.jpg",
+      "rating": "6",
+      "description": "Fateh is an upcoming action-thriller film featuring cybercrime themes.",
+      "cast": ["Sonu Sood"],
+      "genre": ["Action", "Thriller"],
+      "watch_url": "N/A"
+    },
+    {
+      "name": "Manjummel Boys",
+      "id": "manjummel-boys",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5uNTzF4J6PaC9HcBGyUCuukhAGaOBKl1qC9opNbUdKdR_2iY7WYAivuxONFNusGPJATDWbQ",
+      "rating": "8.7",
+      "description": "A group of friends takes on a daring rescue mission, inspired by a real story.",
+      "cast": ["Soubin Shahir", "Sreenath Bhasi"],
+      "genre": ["Adventure", "Drama"],
+      "watch_url": "N/A"
+    },
+    {
+      "name": "Aavesham",
+      "id": "aavesham",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEt28YUH61EVhDKe9-Hv3_jS1pG6Kgu9LICg&s",
+      "rating": "8.4",
+      "description": "College students team up with a gangster to exact revenge, leading to chaos and laughs.",
+      "cast": ["Fahadh Faasil"],
+      "genre": ["Action", "Comedy"],
+      "watch_url": "N/A"
+    },
+    {
+      "name": "Deva",
+      "id": "deva",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSnjgjk0Gh1D0CwPduFQTBsHwgNAVNVimNoSqS8LRqim_ssk_tqD6qa7ucqjTNLvYoN3YG",
+      "rating": "7",
+      "description": "A rebellious cop uncovers a dark conspiracy while investigating a high-profile case.",
+      "cast": ["Shahid Kapoor", "Pooja Hegde"],
+      "genre": ["Action", "Thriller"],
+      "watch_url": "N/A"
+    },
+    {
+      "name": "Skyforce",
+      "id": "skyforce",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BNDBkYWNkNmEtNTdjNS00YzZjLWIzZjMtMmEwZTNhYjJiYWM4XkEyXkFqcGc@._V1_.jpg",
+      "rating": "7",
+      "description": "India and Pakistan engage in airstrike warfare. As the conflict escalates, so does the risk of deadly consequences. Amid rising tensions, a group of individuals seek the truth behind the war",
+      "cast": ["Akshay Kumar"],
+      "genre": ["Action", "Thriller"],
+      "watch_url": "N/A"
+    },
+    {
+      "name": "Badlapur",
+      "id": "badlapur",
+      "img_url": "https://content1.jdmagicbox.com/comp/jd_social/news/2018aug06/image-195656-pvqe1vi6ye.jpg?fit=around|140:205&crop=140:205;*,*",
+      "rating": "9",
+      "description": "India and Pakistan engage in airstrike warfare. As the conflict escalates, so does the risk of deadly Raghu loses his wife and son when two bank robbers steal their car in a bid to run.",
+      "cast": ["VArun Dhawan"],
+      "genre": ["Action", "Thriller"],
+      "watch_url": "N/A"
+    },
+    {
+      "name": "Highway",
+      "id": "highway",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1E82cjkQE-XWKFoXtbmwapqOP3SFU-QRO0gHhSceCgZ1v9Qqr15u6dHv8y0Q38LqUzBE&usqp=CAU",
+      "rating": "8",
+      "description": "Veera, a young bride-to-be, is abducted by a local gangster, Mahabir, and his men a day prior to her wedding. Far from being terrified of her abductor, Veera discovers a new meaning to her life",
+            
+      "cast": ["Alia Bhatt, Randeep Hooda"],
+      "genre": ["Action", "Thriller"],
+      "watch_url": "N/A"
+    },
+    {
+      "name": "Masaan",
+      "id": "masaan",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMTU4NTE0NTMyNl5BMl5BanBnXkFtZTgwNjI5MDkxNjE@._V1_.jpg",
+      "rating": "8",
+      "description": "Veera, a young bride-to-be, is abducted by a local gangster, Mahabir, and his men a day prior to her wedding. Far from being terrified of her abductor, Veera discovers a new meaning to her life",
+            
+      "cast": ["e, Richa chadha"],
+      "genre": ["Action", "Thriller"],
+      "watch_url": "N/A"
+    },
+    {
+      "name": "October",
+      "id": "october",
+      "img_url": "https://wallpaperaccess.com/full/11757988.jpg",
+      "rating": "8",
+      "description": "Veera, a young bride-to-be, is abducted by a local gangster, Mahabir, and his men a day prior to her wedding. Far from being terrified of her abductor, Veera discovers a new meaning to her life"
+     
+    },
+    {
+      "name": "Hasee Toh Phasee",
+      "id": "hassetohphasee",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMTQ5NTUyMzE3Ml5BMl5BanBnXkFtZTgwOTI5MDEwMTE@._V1_.jpg",
+      "rating": "7",
+      "description": "Nikhil is a struggling businessman who thinks he is in love with his girlfriend, Karishma, and wants to marry her. But he ends up falling in love with her smart, geeky and quirky sister, Meeta"
+     
+    },
+    {
+      "name": "Attack On Titan",
+      "id": "attack-on-titan",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BNjY4MDQxZTItM2JjMi00NjM5LTk0MWYtOTBlNTY2YjBiNmFjXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "9.8",
+      "description": "Nikhil is a struggling businessman who thinks he is in love with his girlfriend, Karishma, and wants to marry her. But he ends up falling in love with her smart, geeky and quirky sister, Meeta"
+     
+    },
+    {
+      "name": "Spirited Away",
+      "id": "spirited-away",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "8",
+      "description": "Nikhil is a struggling businessman who thinks he is in love with his girlfriend, Karishma, and wants to marry her. But he ends up falling in love with her smart, geeky and quirky sister, Meeta"
+     
+    },
+    {
+      "name": "Fan",
+      "id": "fan",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BNWFjOTA3NzQtODUzNS00MWRlLWE5Y2YtNmMyZjU3YzkxYzI4XkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "6.7",
+      "description": "Gaurav's world revolves around the superstar Aryan Khanna. What happens when his passion turns into a dangerous obsession that crosses the fine line?"
+    },
+    {
+      "name": "Tumhari Sulu",
+      "id": " tumhari-sulu",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BYzZhMTFiNDgtM2ExMi00OTA3LTg4YjctNWIwZDIzN2NmODU2XkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "7",
+      "description": "Tumhari Sulu is a 2017 Indian Hindi-language comedy-drama film directed by Suresh Triveni. The film stars Vidya Balan as a middle-class housewife who unexpectedly becomes a successful radio jockey."
+    },
+    {
+      "name": "Bad Newz",
+      "id": " bad-newz",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BM2QxNGM0OTItMjE1MS00ZjRiLTg3ZTItMTg1NGMyNmRiMjc4XkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "3",
+      "description": "A crazy laugh riot which will show the outcomes of two sophisticated Punjabi men and a Punjabi girl. One of the men has a one night stand with the girl and somehow, craziness happens when she is pregnant unexpectedly.."
+    },
+    {
+      "name": "Chakdey India",
+      "id": "chakdey-india",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMTUzODMyNzk4NV5BMl5BanBnXkFtZTgwNTk1NTYyNTM@._V1_SX300.jpg",
+      "rating": "7",
+      "description": "Chakdey India is a 2007 Indian Hindi-language sports drama film directed by Shimit Amin and produced by Aditya Chopra. The film stars Shah Rukh Khan as Kabir Khan, a former hockey player who coaches the Indian"
+    },
+    {
+      "name": "mimi",
+      "id": "mimi",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BYzU5YjkyODYtNmIzOC00MWY3LWE0ZTUtZWU2MDZhODE3NDE1XkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "7",
+      "description": "Mimi is a 2021 Indian Hindi-language comedy-drama film directed by Laxman Utekar. The film stars Kriti Sanon as a surrogate mother, with Pankaj Tripathi, Sai Tamhankar, and Manoj Pahwa in supporting roles."
+    },
+    {
+          "name": "Vivah",
+      "id": "vivah",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMDA4MTg0OGQtMmVmNS00MzYzLWExOWEtNzFiNGE1ZjQ0MmRjXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "7",
+      "description": "Poonam, a traditionally brought-up young woman, is to marry Prem, a groom chosen by her uncle. Poonam and Prem's faith and love are to be tested however, when an accident occurs and Poonam might be scarred for life."
+    
+    },
+    {
+      "name": "Blink",
+      "id": "blink",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BNjEyY2I2NGQtZTQ2NC00MjU3LTkwOWEtMmMzODdhNTU0NGZlXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "8",
+      "description": "Apoorva hides his failed MA from his mother in Bengaluru. Working odd jobs and relying on Swapna, his ability to control blinking becomes a curse when an old man says his father lives."
+
+    },
+    {
+      "name": "Indiana Jones - Raiders Of The Lost Ark",
+      "id": "indianajones",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "8",
+      "description": "Apoorva hides his failed MA from his mother in Bengaluru. Working odd jobs and relying on Swapna, his ability to control blinking becomes a curse when an old man says his father lives."
+
+    },{
+      "name": "Indiana Jones And The Temple Of Doom",
+      "id": "indianajonesandthetempleofdoom",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BOGUwZjZiNWQtYzAzZi00NGI5LWE4YmUtN2Y4YWMwY2RlZDkyXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "8",
+      "description": "Apoorva hides his failed MA from his mother in Bengaluru. Working odd jobs and relying on Swapna, his ability to control blinking becomes a curse when an old man says his father lives."
+
+    },
+  {
+      "name": "Hi Papa",
+      "id": "hipapa",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BZmU4MzExZGQtYzUzZC00NGE2LTg5NTgtZWI3MWM4YzgyNWUxXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "8",
+      "description": "Apoorva hides his failed MA from his mother in Bengaluru. Working odd jobs and relying on Swapna, his ability to control blinking becomes a curse when an old man says his father lives."
+
+    }
+  ,{
+      "name": "Jaane Tu... Ya Jaane Naa",
+      "id": "jaanetuyajaanenaa",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BMWI1M2M3YTItMzRhNS00OWNhLThhOWMtMDA1NGZlMDBjMzg5XkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "7",
+      "description": "Apoorva hides his failed MA from his mother in Bengaluru. Working odd jobs and relying on Swapna, his ability to control blinking becomes a curse when an old man says his father lives."
+
+    },{
+      "name": "Raid 2",
+      "id": "raid2",
+      "img_url": "https://m.media-amazon.com/images/M/MV5BZDcwMWZiYjgtYWE5Zi00NDk0LTkyMDctYzgzMzA4YTZlZjBlXkEyXkFqcGc@._V1_SX300.jpg",
+      "rating": "7",
+      "description": "Apoorva hides his failed MA from his mother in Bengaluru. Working odd jobs and relying on Swapna, his ability to control blinking becomes a curse when an old man says his father lives."
+
+    }]
+    
+            ,
+            
+                "saurav":[{
+    "name": "Squid Game 2",
+    "id": "squid-game-2",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BMzdmNjUzYTktM2EyMS00NDBlLTkzMDAtY2I4N2QyNjhiY2IzXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": "8",
+    "description": "A group of desperate contestants risk their lives to become the final winner in a mysterious extreme survival game.",
+    "cast": ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-joon"],
+    "genre": ["Mystery", "Thriller"],
+    "watch_url": "https://www.netflix.com/title/81214936",
+    "year": 2024
+  },
+  {
+    "name": "Hangover 3",
+    "id": "hangover-3",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BMTA0NjE1MzMzODheQTJeQWpwZ15BbWU3MDY4MTQ3Mzk@._V1_SX300.jpg",
+    "rating": "6.0",
+    "description": "The Wolf Pack gets into trouble again as they search for their friend in Las Vegas.",
+    "cast": ["Bradley Cooper", "Ed Helms", "Zach Galifianakis"],
+    "genre": ["Comedy"],
+    "watch_url": "https://www.netflix.com/title/70258393",
+    "year": 2013
+  },
+  {
+    "name": "Mad Max Fury Road",
+    "id": "mad-max-fury-road",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": "8.0",
+    "description": "In a post-apocalyptic wasteland, Max teams up with Furiosa to escape a tyrant.",
+    "cast": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"],
+    "genre": ["Action"],
+    "watch_url": "https://www.netflix.com/title/80023626",
+    "year": 2015
+  },
+  {
+    "name": "Mad Max Furiosa",
+    "id": "mad-max-furiosa",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": "8.5",
+    "description": "The origin story of Furiosa, detailing her journey in a post-apocalyptic world.",
+    "cast": ["Anya Taylor-Joy", "Chris Hemsworth"],
+    "genre": ["Action"],
+    "watch_url": "https://www.netflix.com/title/81613584",
+    "year": 2024
+  },
+  {
+    "name": "XO Kitty 2",
+    "id": "xo-kitty-2",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BYmQ0MzJlODUtYjI2ZS00ZWQzLTkxYzYtNjRjNDZlZTgzNmRkXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": "8.0",
+    "description": "Kitty navigates love and friendships in her second year at a Korean boarding school.",
+    "cast": ["Anna Chttpsathcart", "Minyeong Choi", "Gia Kim"],
+    "genre": ["Teen Drama"],
+    "watch_url": "https://www.netflix.com/title/81413647",
+    "year": 2024
+  },
+  {
+    "name": "Go Goa Gone",
+    "id": "go-goa-gone",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BNmQ1NWI2M2MtOGVkNy00ZjViLWJiNmYtMjQ4NDA3YjNmZDczXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": "7.0",
+    "description": "A group of friends faces a zombie apocalypse during a rave party in Goa.",
+    "cast": ["Saif Ali Khan", "Kunal Kemmu", "Vir Das"],
+    "genre": ["Comedy"],
+    "watch_url": "https://www.netflix.com/title/70258973",
+    "year": 2013
+  },
+  {
+    "name": "Khel Khel Mein",
+    "id": "khel-khel-mein",
+    "img_url": "hhttps://m.media-amazon.com/images/M/MV5BNjIxYzA3ZjItYWM5YS00NjI5LWEzNTQtZWQ3M2Y0NDFkMzc5XkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": "6.5",
+    "description": "A comedy about friends revealing secrets during a dinner game.",
+    "cast": ["Akshay Kumar", "Taapsee Pannu", "Vaani Kapoor"],
+    "genre": ["Comedy"],
+    "watch_url": "https://www.netflix.com/title/81712345",
+    "year": 2024
+  },
+  {
+    "name": "The Martian",
+    "id": "the-martian",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg",
+    "rating": "9.0",
+    "description": "An astronaut stranded on Mars fights to survive and signal for rescue.",
+    "cast": ["Matt Damon", "Jessica Chastain", "Kristen Wiig"],
+    "genre": ["Sci-Fi"],
+    "watch_url": "https://www.netflix.com/title/80058329",
+    "year": 2015
+  },
+  {
+    "name": "Delhi Belly",
+    "id": "delhi-belly",
+    "img_url": "https://m.media-amazon.com/images/M/MV5BMmMyZjk0MjUtZmEwZi00YmJjLWIyNGQtZDA0NzBjNWJjZjIwXkEyXkFqcGc@._V1_SX300.jpg",
+    "rating": "8.5",
+    "description": "Three friends get entangled in a chaotic crime caper in Delhi.",
+    "cast": ["Imran Khan", "Vir Das", "Kunaal Roy Kapur"],
+    "genre": ["Comedy"],
+    "watch_url": "https://www.netflix.com/title/70181192",
+    "year": 2011
+  },
+  {
+    "name": "Catch Me If You Can",
+    "id": "catch-me-if-you-can",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcA0z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "9.0",
+    "description": "A con artist is chased by an FBI agent while pulling off elaborate scams.",
+    "cast": ["Leonardo DiCaprio", "Tom Hanks", "Christopher Walken"],
+    "genre": ["Mystery"],
+    "watch_url": "https://www.netflix.com/title/60024946",
+    "year": 2002
+  },
+  {
+    "name": "Good Will Hunting",
+    "id": "good-will-hunting",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcB1z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "9.5",
+    "description": "A genius janitor with a troubled past is mentored by a therapist and a professor.",
+    "cast": ["Matt Damon", "Robin Williams", "Ben Affleck"],
+    "genre": ["Feel Good"],
+    "watch_url": "https://www.netflix.com/title/177448",
+    "year": 1997
+  },
+  {
+    "name": "Andhadhun",
+    "id": "andhadhun",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcC2z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "10.0",
+    "description": "A blind pianist gets caught in a web of crime and deception.",
+    "cast": ["Ayushmann Khurrana", "Tabu", "Radhika Apte"],
+    "genre": ["Mystery"],
+    "watch_url": "https://www.netflix.com/title/81039229",
+    "year": 2018
+  },
+  {
+    "name": "Blackmail",
+    "id": "blackmail",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcD3z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "6.0",
+    "description": "A man blackmails his cheating wife, leading to unexpected consequences.",
+    "cast": ["Irrfan Khan", "Kirti Kulhari", "Arunoday Singh"],
+    "genre": ["Comedy"],
+    "watch_url": "https://www.netflix.com/title/81039230",
+    "year": 2018
+  },
+  {
+    "name": "The Wild Robot",
+    "id": "the-wild-robot",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcE4z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "9.0",
+    "description": "A robot stranded on an island learns to adapt and care for its inhabitants.",
+    "cast": ["Lupita Nyong'o", "Pedro Pascal", "Catherine O'Hara"],
+    "genre": ["Feel Good", "Animated"],
+    "watch_url": "https://www.netflix.com/title/81613585",
+    "year": 2024
+  },
+  {
+    "name": "Fallout",
+    "id": "fallout",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcF5z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "6.5",
+    "description": "Survivors navigate a post-apocalyptic world after a nuclear fallout.",
+    "cast": ["Ella Purnell", "Aaron Moten", "Walton Goggins"],
+    "genre": ["Sci-Fi"],
+    "watch_url": "https://www.amazon.com/Fallout-Season-1/dp/B0CN4D2D6R",
+    "year": 2024
+  },
+  {
+    "name": "Merry Christmas",
+    "id": "merry-christmas",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcG6z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "6.5",
+    "description": "A Christmas Eve encounter turns into a thrilling mystery.",
+    "cast": ["Katrina Kaif", "Vijay Sethupathi"],
+    "genre": ["Mystery"],
+    "watch_url": "https://www.netflix.com/title/81613586",
+    "year": 2024
+  },
+  {
+    "name": "Gangs of Wasseypur",
+    "id": "gangs-of-wasseypur",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcH7z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "9.0",
+    "description": "A saga of revenge and power struggles in a coal mafia family.",
+    "cast": ["Manoj Bajpayee", "Richa Chadha", "Nawazuddin Siddiqui"],
+    "genre": ["Action"],
+    "watch_url": "https://www.netflix.com/title/70228573",
+    "year": 2012
+  },
+  {
+    "name": "Gangs of Wasseypur 2",
+    "id": "gangs-of-wasseypur-2",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcI8z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "10.0",
+    "description": "The saga continues with more bloodshed and betrayal in Wasseypur.",
+    "cast": ["Nawazuddin Siddiqui", "Huma Qureshi", "Richa Chadha"],
+    "genre": ["Action"],
+    "watch_url": "https://www.netflix.com/title/70228574",
+    "year": 2012
+  },
+  {
+    "name": "Fight Club",
+    "id": "fight-club",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcJ9z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "8.5",
+    "description": "A disillusioned man forms an underground fight club with a mysterious stranger.",
+    "cast": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+    "genre": ["Mystery", "Thriller"],
+    "watch_url": "https://www.netflix.com/title/26004747",
+    "year": 1999
+  },
+  {
+    "name": "The Platform",
+    "id": "the-platform",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcK0z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "9.5",
+    "description": "In a vertical prison, inmates fight for food as it descends level by level.",
+    "cast": ["Iván Massagué", "Zorion Eguileor", "Antonia San Juan"],
+    "genre": ["Mystery", "Thriller"],
+    "watch_url": "https://www.netflix.com/title/81128579",
+    "year": 2019
+  },
+  {
+    "name": "The 8 Show",
+    "id": "the-8-show",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcL1z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "9.0",
+    "description": "Eight contestants compete in a high-stakes game for a massive cash prize.",
+    "cast": ["Ryu Jun-yeol", "Chun Woo-hee", "Park Jeong-min"],
+    "genre": ["Mystery"],
+    "watch_url": "https://www.netflix.com/title/81613587",
+    "year": 2024
+  },
+  {
+    "name": "Badass Ravikumar",
+    "id": "badass-ravikumar",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcM2z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "11.0",
+    "description": "A larger-than-life hero takes on crime with style and swagger.",
+    "cast": ["Himesh Reshammiya"],
+    "genre": ["Action", "Comedy", "Drama"],
+    "watch_url": "https://www.netflix.com/title/81613588",
+    "year": 2025
+  },
+  {
+    "name": "Talaash",
+    "id": "talaash",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcN3z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "8.5",
+    "description": "A cop investigates a mysterious death while grappling with personal loss.",
+    "cast": ["Aamir Khan", "Rani Mukerji", "Kareena Kapoor"],
+    "genre": ["Mystery", "Thriller"],
+    "watch_url": "https://www.netflix.com/title/70228575",
+    "year": 2012
+  },
+  {
+    "name": "The Last of Us",
+    "id": "the-last-of-us",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcO4z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "9.0",
+    "description": "A smuggler escorts a teenage girl through a post-apocalyptic world.",
+    "cast": ["Pedro Pascal", "Bella Ramsey"],
+    "genre": ["Survival"],
+    "watch_url": "https://www.hbo.com/the-last-of-us",
+    "year": 2023
+  },
+  {
+    "name": "The Revenant",
+    "id": "the-revenant",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcP5z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "9.5",
+    "description": "A frontiersman seeks revenge after being left for dead in the wilderness.",
+    "cast": ["Leonardo DiCaprio", "Tom Hardy", "Will Poulter"],
+    "genre": ["Survival"],
+    "watch_url": "https://www.netflix.com/title/80050992",
+    "year": 2015
+  },
+  {
+    "name": "The Curious Case of Benjamin Button",
+    "id": "the-curious-case-of-benjamin-button",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6z9y0_`z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "8.5",
+    "description": "A man ages backward, experiencing life in reverse.",
+    "cast": ["Brad Pitt", "Cate Blanchett", "Tilda Swinton"],
+    "genre": ["Feel Good"],
+    "watch_url": "https://www.netflix.com/title/70108782",
+    "year": 2008
+  },
+  {
+    "name": "Spirited Away",
+    "id": "spirited-away",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "9.5",
+    "description": "A young girl navigates a magical world to save her parents.",
+    "cast": ["Rumi Hiiragi", "Miyu Irino", "Mari Natsuki"],
+    "genre": ["Fantasy", "Animated"],
+    "watch_url": "https://www.netflix.com/title/60023624",
+    "year": 2001
+  },
+  {
+    "name": "Blood Diamond",
+    "id": "blood-diamond",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:GcS8z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "7.0",
+    "description": "A fisherman and a smuggler search for a rare diamond in war-torn Sierra Leone.",
+    "cast": ["Leonardo DiCaprio", "Djimon Hounsou", "Jennifer Connelly"],
+    "genre": ["Thriller"],
+    "watch_url": "https://www.netflix.com/title/70059706",
+    "year": 2006
+  },
+  {
+    "name": "Dhoom Dhaam",
+    "id": "dhoom-dhaam",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:GcT9z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "3.0",
+    "description": "A chaotic comedy about mistaken identities and hilarious misadventures.",
+    "cast": ["Unknown"],
+    "genre": ["Comedy"],
+    "watch_url": "https://www.netflix.com/title/81613589",
+    "year": 2024
+  },
+  {
+    "name": "Grave of the Fireflies",
+    "id": "grave-of-the-fireflies",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q:GcU0z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "8.5",
+    "description": "Two siblings struggle to survive in Japan during World War II.",
+    "cast": ["Tsutomu Tatsumi", "Ayano Shiraishi"],
+    "genre": ["Drama", "Animated"],
+    "watch_url": "https://www.netflix.com/title/60010424",
+    "year": 1988
+  },
+  {
+    "name budyn": "99",
+    "id": "99",
+    "img_url": "https://encrypted-tbn0.gstatic.com/images?q:GcV1z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "7.5",
+    "description": "A small-time crook gets involved in a big-time cricket betting scam.",
+    "cast": ["Kunal Kemmu", "Boman Irani", "Soha Ali Khan"],
+    "genre": ["Comedy"],
+    "watch_url": "https://www.netflix.com/title/70123112",
+    "year": 2009
+  },
+  {
+    "name": "You Don't Mess with the Zohan",
+    "id": "you-dont-mess-with-the-zohan",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcW2z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "6.5",
+    "description": "An Israeli commando fakes his death to become a hairdresser in New York.",
+    "cast": ["Adam Sandler", "John Turturro", "Emmanuelle Chriqui"],
+    "genre": ["Comedy"],
+    "watch_url": "https://www.netflix.com/title/70108783",
+    "year": 2008
+  },
+  {
+    "name": "Invincible 3",
+    "id": "invincible-3",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcX3z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "9.0",
+    "description": "Mark Grayson faces new threats as heliable superhero life.",
+    "cast": ["Steven Yeun", "Sandra Oh", "J.K. Simmons"],
+    "genre": ["Superhero"],
+    "watch_url": "https://www.amazon.com/Invincible-Season-3/dp/B0CN4D2D7S",
+    "year": 2025
+  },
+  {
+    "name": "Jojo Rabbit",
+    "id": "jojo-rabbit",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcY4z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "10.0",
+    "description": "A boy’s imaginary friend, Adolf Hitler, guides him during WWII.",
+    "cast": ["Roman Griffin Davis", "Thomasin McKenzie", "Scarlett Johansson"],
+    "genre": ["Feel Good"],
+    "watch_url": "https://www.netflix.com/title/81157374",
+    "year": 2019
+  },
+  {
+    "name": "Laapataa Ladies",
+    "id": "laapataa-ladies",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcZ5z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "9.0",
+    "description": "Two brides get swapped on a train, leading to a heartwarming comedy.",
+    "cast": ["Nitanshi Goel", "Pratibha Ranta", "Sparsh Shrivastava"],
+    "genre": ["Comedy"],
+    "watch_url": "https://www.netflix.com/title/81613590",
+    "year": 2024
+  },
+  {
+    "name": "Flow",
+    "id": "flow",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcA6z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "8.5",
+    "description": "A group of animals band together to survive in a perilous world.",
+    "cast": ["Unknown"],
+    "genre": ["Survival"],
+    "watch_url": "https://www.netflix.com/title/81613591",
+    "year": 2024
+  },
+  {
+    "name": "The Truman Show",
+    "id": "the-truman-show",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcB7z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "9.0",
+    "description": "A man discovers his entire life is a reality TV show.",
+    "cast": ["Jim Carrey", "Laura Linney", "Ed Harris"],
+    "genre": ["Mystery"],
+    "watch_url": "https://www.netflix.com/title/157811",
+    "year": 1998
+  },
+  {
+    "name": "Predestination",
+    "id": "predestination",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcC8z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "8.5",
+    "description": "A time-traveling agent pursues a criminal in a mind-bending loop.",
+    "cast": ["Ethan Hawke", "Sarah Snook", "Noah Taylor"],
+    "genre": ["Sci-Fi"],
+    "watch_url": "https://www.netflix.com/title/70305895",
+    "year": 2014
+  },
+  {
+    "name": "The Wolf of Wall Street",
+    "id": "the-wolf-of-wall-street",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcD9z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "8.0",
+    "description": "A stockbroker’s rise and fall in a world of greed and excess.",
+    "cast": ["Leonardo DiCaprio", "Jonah Hill", "Margot Robbie"],
+    "genre": ["Drama"],
+    "watch_url": "https://www.netflix.com/title/70295166",
+    "year": 2013
+  },
+  {
+    "name": "Barfi",
+    "id": "barfi",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcE0z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "9.0",
+    "description": "A deaf-mute man finds love and joy in a world of challenges.",
+    "cast": ["Ranbir Kapoor", "Priyanka Chopra", "Ileana D'Cruz"],
+    "genre": ["Feel Good"],
+    "watch_url": "https://www.netflix.com/title/70228576",
+    "year": 2012
+  },
+  {
+    "name": "Micky 17",
+    "id": "micky-17",
+    "img_url": "https://encrypted.tbn0.gstatic.com/images?q:GcF1z9y0z1w2x3v4x5v6x7y8z9x0y1z2w&s",
+    "rating": "6.5",
+    "description": "A space colonist repeatedly dies and regenerates on a dangerous mission.",
+    "cast": ["Robert Pattinson", "Naomi Ackie", "Mark Ruffalo"],
+    "genre": ["Sci-Fi"],
+    "watch_url": "https://www.netflix.com/title/81613592",
+    "year": 2025
+  }
+]
+            
+}
+    
+}

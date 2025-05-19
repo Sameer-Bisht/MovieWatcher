@@ -1,0 +1,118 @@
+.navbar{
+    display: flex;
+    position: sticky;
+    top: 0;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(34, 34, 34);
+    border-radius: 0px 0px 0px 0px ;
+    padding: 20px;
+
+}
+.navbar-phone{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+   border-radius: 30px;
+
+}
+.navbar-inside-container{
+    width: 700px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/* Default hidden dropdown */
+.nav-links-phone.dropdown {
+  transform-origin: top;
+  transform: scaleY(0);
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: 
+    transform 0.3s ease,
+    opacity 0.3s ease,
+    max-height 0.3s ease;
+}
+
+.nav-links-phone.dropdown.open {
+  transform: scaleY(1);
+  opacity: 1;
+  max-height: 300px; /* large enough to show content */
+}
+/* for phone navbar  */
+.navbar-container{   
+    background-color: rgb(34, 34, 34);
+}
+
+.navbar h3{
+  background: linear-gradient(135deg, #EA173F, #A82158);
+    -webkit-background-clip: text;       /* Clip background to text (WebKit) */
+    -webkit-text-fill-color: transparent;/* Make the text itself transparent */
+    background-clip: text;             
+    color: transparent;                  /* Fallback for full support */
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.navbar-phone h3 {
+    font-size: 2rem;
+    margin: 7px ;
+}
+.ham{
+    font-size: 1.4rem;
+    margin:1rem 2rem;
+    color: rgb(175, 175, 175);
+    
+}
+.nav-links li{     
+    background-color:rgb(220 220 220);
+    color: black;
+    border-radius: 20px;
+    padding: 10px;
+
+}
+.nav-links li:hover{    
+    background-color:rgb(189, 189, 189);
+
+
+}
+.nav-links-phone{
+    display: flex;
+    flex-direction:column;
+    list-style-type: none;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    gap: 3px;
+    cursor: pointer;
+    font-size: 2rem;
+}
+.nav-links-phone li{
+      background-color: rgb(47 47 47);
+    border-radius: 10px;
+    margin: 6px 8px;
+    font-size: 1.2rem;
+    
+    padding: 0.4rem;
+    color: #a0a0a0;
+  
+  
+}
+.nav-links-phone li:hover{
+    background-color: rgb(191, 191, 191);
+}
+
+
+.nav-links{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: center;
+    list-style: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    
+}

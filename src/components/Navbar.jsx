@@ -4,6 +4,7 @@ import { GiHamburgerMenu } from "react-icons/gi";
 import { ImCross } from "react-icons/im";
 const Navbar = () => {
   const [openNav, setOpenNav] = useState({ham:true,navView:false});
+  const websiteName = "Film Dekhli"
   //responsive  functionality
   const handleOnHamClick = ()=> { 
     setOpenNav({ham:!openNav.ham,navView:!openNav.navView})
@@ -13,7 +14,7 @@ const Navbar = () => {
       <nav className="navbar">
       <div className="navbar-inside-container">
 
-      <h3>Cinema</h3>
+      <h3>{websiteName}</h3>
 
       <ul className="nav-links">
         <li onClick={() => window.location.pathname = "/"} >Home</li>
@@ -28,7 +29,7 @@ const Navbar = () => {
     return (
       <nav className="navbar-container">
           <div className="navbar-phone">
-            <h3 className="gradient">Movie Buff </h3>
+            <h3 className="gradient">{websiteName}</h3>
             {
               openNav.ham ?
             <GiHamburgerMenu

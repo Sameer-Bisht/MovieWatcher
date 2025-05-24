@@ -1,26 +1,9 @@
 import "./moviecard.css"
-import {React} from 'react'
-import {useState, useEffect} from "react";
+
 const MovieCard = ({name, id, genre, description, img_url,rating})=>{
 
     // Helper to count lines in description
-    const getLineCount = (text) => {
-        // Create a temporary element to measure rendered lines
-        const el = document.createElement("div");
-        el.style.position = "absolute";
-        el.style.visibility = "hidden";
-        el.style.width = "300px"; // adjust to your card width
-        el.style.fontSize = "16px"; // adjust to your CSS
-        el.style.lineHeight = "1.5"; // adjust to your CSS
-        el.innerText = text;
-        document.body.appendChild(el);
-        const lineHeight = parseFloat(getComputedStyle(el).lineHeight);
-        const height = el.offsetHeight;
-        document.body.removeChild(el);
-        return Math.round(height / lineHeight);
-    };
-
-    const [showReadMe, setShowReadMe] = useState(false);
+ 
 
     useEffect(() => {
         if (description) {
